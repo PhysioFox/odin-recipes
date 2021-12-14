@@ -1,0 +1,45 @@
+* {
+    background-color: lightsteelblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+    color: darkslateblue;
+
+}
+
+.image {
+    text-align: center;
+    
+}
+
+.image img{
+    border: 1px ridge grey;
+}
+
+ul {
+    text-align: left;
+    line-height: 110%;
+}
+
+.center {
+    margin: auto;
+    width: 40%;
+    border: 2px ridge grey;
+    padding: 3px;
+    margin-bottom: 10px;
+
+}
+
+.center2 {
+    margin: auto;
+    width: 70%;
+    border: 2px ridge grey;
+    padding: 3px;
+}
+
+p {
+    text-align: center;
+}
+
